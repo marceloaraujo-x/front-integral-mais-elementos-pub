@@ -17,6 +17,7 @@ Todos os textos entre aspas (") serão conteúdos da sua página e elementos em 
 
 ### Home
 ![home](https://i.imgur.com/shPWJWL.png)
+
 Elementos em ordem: 
 - Cabeçalho
   - Título
@@ -41,6 +42,7 @@ Elementos em ordem:
     - "Voltar ao início"
 ### Siamês
 ![siames](https://i.imgur.com/pA0OF9c.png)
+
 Elementos em ordem: 
 - Cabeçalho
   - Título
@@ -66,6 +68,7 @@ Elementos em ordem:
     - "Voltar ao início"
 ### Persa
 ![persa](https://i.imgur.com/KYTpC3z.png)
+
 Elementos em ordem: 
 - Cabeçalho
   - Título
@@ -91,6 +94,7 @@ Elementos em ordem:
     - "Voltar ao início"
 ### Maine Coon
 ![maine coon](https://i.imgur.com/Eajt8xQ.png)
+
 Elementos em ordem: 
 - Cabeçalho
   - Título
@@ -116,6 +120,7 @@ Elementos em ordem:
     - "Voltar ao início"
 ### Sphynx
 ![sphynx](https://i.imgur.com/4qlE3Ju.png)
+
 Elementos em ordem: 
 - Cabeçalho
   - Título
